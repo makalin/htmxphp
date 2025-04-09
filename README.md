@@ -118,7 +118,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 ## 📜 License
 
-MIT License © 2025 [Mehmet Turgay Akalın](https://github.com/makalin)
+MIT License © 2025 [Mehmet Turgay AKALIN](https://github.com/makalin)
 
 ---
 
